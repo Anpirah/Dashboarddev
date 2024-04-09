@@ -1,3 +1,7 @@
+Dashboard-dev project 
+
+General Planning:
+
 Digital 24h Clock + Date:
 Objective:
 Create a digital clock displaying the 24-hour format along with the current date.
