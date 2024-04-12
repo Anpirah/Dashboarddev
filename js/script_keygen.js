@@ -41,3 +41,5 @@ function generarYMostrarKey() {
 // Asignar un manejador de eventos al botón de generación de contraseñas
 document.getElementById('generarKey').addEventListener('click', generarYMostrarKey);
 
+
+
